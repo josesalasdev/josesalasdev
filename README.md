@@ -1,16 +1,14 @@
-### Hi there 👋  I'm Jose Salas
+### Hi there 👋 
+# ✨  I'm Jose Salas 
 
-<!--
-**josesalasdev/josesalasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From the backend I develop infrastructure and services with technologies such as python `(*.py)` and golang `(*.go)`, 
+I have had the opportunity to work in many 🦾 industries, in each development team 👨‍💻 I leave my mark and beautiful friendships. I also love to learn and teach 🤓
 
-Here are some ideas to get you started:
+<img src="images/go.gif" height="70" style="float:right;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on @mercadolibre
+- 🌱 I’m currently learning new stuff
+- ✊ My strong skills are in python
+
+<img src="images/python.png" height="75" style="float:right;">
+
