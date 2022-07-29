@@ -9,4 +9,4 @@ I have had the opportunity to work in many industries, in each development team 
 - 🌱 I’m currently learning new stuff
 - ✊ My strong skills are in python <img src="images/python.png" height="30">
 - 😍 I like data, infrastructure and automation
-- Write me 👉 jose.salas@apiruns.com
+- 👉 Write me jose.salas@apiruns.com
