@@ -6,7 +6,7 @@ I have had the opportunity to work in many industries, in each development team 
 
 Current personal project [@apiruns](https://github.com/apiruns)
 
-- 🔭 I’m currently working on @mercadolibre
+- 🔭 I’m currently working on [@mercadolibre](https://github.com/mercadolibre)
 - 🌱 I’m currently learning new stuff
 - ✊ My strong skills are in python <img src="images/python.png" height="30">
 - 😍 I like data, infrastructure and automation
